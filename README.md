@@ -26,7 +26,7 @@ print(sol)
 
 ```
 ## Output:
-![output](/Output%20for%20Exp-1.jpg)
+![output](Output%20for%20Exp-1.jpg)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
